@@ -1,2 +1,2 @@
 import chalk from "chalk"
-console.log("starting")
+console.log(chalk.blue("starting"))
